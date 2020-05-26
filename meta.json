@@ -1,0 +1,64 @@
+{
+ "language": "",
+ "title": "",
+ "abstract": "",
+ "year": 2020,
+ "freidok": "",
+ "authors": [
+   { 
+     "firstname": "",
+     "name": "",
+     "email": "",
+     "orcid": ""
+   },
+   { 
+     "firstname": "",
+     "name": "",
+     "email": "",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "",
+   "country": "",
+   "region": "",
+   "city": "",
+   "latitude": 90.0,
+   "longitude": 180.0,
+ },
+ "period": {
+    "begin": 1800,
+    "end": 2050
+ },
+ "concept": "",
+ "topic": "",
+ "subtopic": "",
+ "keywords": ["","",""], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "publisher": "",
+      "pages": ""
+   }
+ ],
+  
+
+
+}
