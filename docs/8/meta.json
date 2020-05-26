@@ -1,0 +1,214 @@
+{
+ "language": "en",
+ "title": "The Human as Stressor of the Nile: Egypt´s Population Growth",
+ "abstract": "Der Mensch ist ein signifikanter Stressor, welcher auf den Nil als Critical Zone einwirkt. Das steigende Bevölkerungswachstum in Ägypten, hervorgerufen durch Entwicklungen auf globaler sowie lokaler Ebene, erodiert die Stabilität der Critical Zone Nil. Die Auswirkungen des stetigen Anstiegs des äyptischen Bevölkerung sind auf lokaler und globaler Ebene zu erkennen. Es lassen sich drei Best Practice Ansätze im Hinblick auf steigende Bevölkerungszahlen identifizieren (sexuelle Aufklärung, Stärkung der Rolle der Frau und Familienplanung).",
+ "year": 2020,
+ "freidok": "",
+ "authors": [
+   { 
+     "firstname": "Matthias",
+     "name": "Berresheim",
+     "email": "matthiasberresheim96@web.de",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Afrika",
+   "country": "Ägypten",
+   "region": "Nordafrika",
+   "city": null,
+   "latitude": 90.0,
+   "longitude": 180.0,
+   "landscape": "Wüste"
+ },
+ "period": {
+    "begin": 1960,
+    "end": 2050
+ },
+ "concept": "Critical Zones",
+ "topic": "Ressourcen",
+ "subtopic": "Bevölkerungswachstum",
+ "keywords": ["Nil"], 
+ "sources": [
+   {
+      "type": "journal",
+      "authors": "Van Bavel, J.",
+      "year": 2013,
+      "title": "The world population: causes, backgrounds and projections for the future",
+      "doi": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24753956/",
+      "journal": "Facts Views Vis Obgyn.",
+      "volume": "5(4)", 
+      "publisher": "fvvo.be",
+      "pages": "281-91"
+   },
+   {
+      "type": "webpage",
+      "authors": "Pew Research Center",
+      "year": 2015,
+      "title": "The Future of World Religions: Population Growth Projections",
+      "doi": null,
+      "url": "https://www.pewforum.org/2015/04/02/religious-projections-2010-2050/",
+      "journal": null,
+      "publisher": "pewforum.org",
+      "pages": null
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "publisher": "",
+      "pages": ""
+   }
+ ],
+  
+
+
+}
