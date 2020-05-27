@@ -1,20 +1,25 @@
 {
+ "id": "0",
  "language": "",
  "title": "",
  "abstract": "",
  "year": 2020,
  "freidok": "",
+ "pdf": "",
+ "thumbnail": "",
  "authors": [
    { 
      "firstname": "",
      "name": "",
      "email": "",
+     "freidok":"",
      "orcid": ""
    },
    { 
      "firstname": "",
      "name": "",
      "email": "",
+     "freidok":"",
      "orcid": ""
    }
  ],
@@ -43,6 +48,7 @@
       "doi": "",
       "url": "",
       "journal": "",
+      "volume": null,
       "publisher": "",
       "pages": ""
    },
@@ -54,6 +60,7 @@
       "doi": "",
       "url": "",
       "journal": "",
+      "volume": null,
       "publisher": "",
       "pages": ""
    }
