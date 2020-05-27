@@ -1,0 +1,77 @@
+{
+ "id": "4",
+ "language": "de",
+ "title": "Lithiumabbau im Dreiländereck Argentinien, Bolivien, Chile",
+ "abstract": "In Zeiten des wachsenden Klima- und Umweltbewusstseins wird weltweit nach Alternativen zu konventionellen Kraftstoffen gesucht. Als wesentlicher Beitrag zur Energiewende gilt in Bezug auf den Verkehr die Elektromobilität. Meinungen innerhalb der deutschen Bevölkerung dazu sind ambivalent. Dennoch boomt der globale Markt für Elektroautos, woraufhin der Bedarf an Lithium steigt – der Rohstoff zur Produktion der Batterien. So haben sowohl die Menge als auch die Geschwindigkeit des Lithiumabbaus stark zugenommen und werden in Zukunft rasant ansteigen. Das weltweit größte Lithiumvorkommen befindet sich im Dreiländereck Chile, Bolivien und Argentinien. Nationale und internationale Unternehmen buhlen um den Zugriff zum „weißen Gold“. Doch der Abbau erfolgt nicht spurlos: Der angewandte Gewinnungsprozess benötigt große Mengen an Wasser, sodass die vorhandenen Wasserreserven sinken. Insbesondere in einer Region, in der ohnehin sehr trockene Verhältnisse herrschen, führt das zur Bedrohung der Lebensgrundlage der lokalen Bevölkerung, die bei dem Abbauprozess kein Mitspracherecht hat.",
+ "year": 2020,
+ "freidok": "",
+ "pdf": "https://globalchanges.github.io/MetaData/4/Lithiumabbau_Elektromobilitaet_EbersoldHesseSpeidel1.pdf",
+ "authors": [
+   { 
+     "firstname": "Theresa",
+     "name": "Ebersold",
+     "email": "theresa.ebersold@web.de",
+     "freidok": "",
+     "orcid": null
+   },
+   { 
+     "firstname": "Janne",
+     "name": "Hesse",
+     "email": "janne-anna@hotmail.de",
+     "freidok": "",
+     "orcid": null
+   },
+   { 
+     "firstname": "Alexandra",
+     "name": "Speidel",
+     "email": "alex.speidel93@web.de",
+     "freidok": "",
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Südamerika",
+   "country": "Argentinien, Bolivien, Chile",
+   "region": "Anden",
+   "city": null,
+   "latitude": 90.0,
+   "longitude": 180.0,
+ },
+ "period": {
+    "begin": 1800,
+    "end": 2050
+ },
+ "concept": "Wirkpfade",
+ "topic": "Ressourcen, Klimawandel",
+ "subtopic": "Rohstoffe, Energie",
+ "keywords": ["Lithium","",""], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ],
+  
+
+
+}
