@@ -22,7 +22,7 @@
    "city": null,     
    "landscape": "Küste",
    "latitude": 90.0,
-   "longitude": 180.0,
+   "longitude": 180.0
  },
  "period": {
     "begin": 2020,
@@ -57,7 +57,7 @@
       "publisher": "",
       "pages": ""
    }
- ],
+ ]
   
 
 

@@ -1,4 +1,10 @@
+ORCID:
+
+
 FREIDOK
+https://freidok.uni-freiburg.de/site/submissionLogin
+
+
 
 mit...
 
@@ -9,7 +15,7 @@ Albert-Ludwigs-Universität Freiburg
 self: Author
 R.G & M.K. Herausgeber
 
-Physische Geographie
+Physische Geographie (Professur)
 
 
 Abstract:  
@@ -20,6 +26,25 @@ Beschreibung: Poster
 
 
 Github: max 25GB
+
+
+
+-----
+Nil:
+Type: change Reihe/Sammlung -> Poster
+Add Band: (8)
+
+---
+https://freidok.uni-freiburg.de/landingpage/getFreidokData?id=11550&lang=en   -> json
+https://freidok.uni-freiburg.de/fedora/objects/freidok:11545/datastreams/FILE1/content -> pdf
+
+
+meta.json:
+ * json...
+
+
+
+
 
 
 

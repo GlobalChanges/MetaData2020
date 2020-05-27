@@ -1,15 +1,20 @@
 {
+ "id": "8",
  "language": "en",
  "title": "The Human as Stressor of the Nile: Egypt´s Population Growth",
  "abstract": "Der Mensch ist ein signifikanter Stressor, welcher auf den Nil als Critical Zone einwirkt. Das steigende Bevölkerungswachstum in Ägypten, hervorgerufen durch Entwicklungen auf globaler sowie lokaler Ebene, erodiert die Stabilität der Critical Zone Nil. Die Auswirkungen des stetigen Anstiegs des äyptischen Bevölkerung sind auf lokaler und globaler Ebene zu erkennen. Es lassen sich drei Best Practice Ansätze im Hinblick auf steigende Bevölkerungszahlen identifizieren (sexuelle Aufklärung, Stärkung der Rolle der Frau und Familienplanung).",
  "year": 2020,
- "freidok": "",
+ "freidok": "165764",
+ "doi": "",
+ "pdf": "https://freidok.uni-freiburg.de/fedora/objects/freidok:165764/datastreams/FILE1/content",
+ "thumbnail": "",
  "authors": [
    { 
      "firstname": "Matthias",
      "name": "Berresheim",
      "email": "matthiasberresheim96@web.de",
-     "orcid": ""
+     "freidok":"",
+     "orcid": null
    }
  ],
  "location": {
@@ -31,7 +36,7 @@
  "keywords": ["Nil"], 
  "sources": [
    {
-      "type": "journal",
+      "type": "article",
       "authors": "Van Bavel, J.",
       "year": 2013,
       "title": "The world population: causes, backgrounds and projections for the future",
@@ -50,7 +55,20 @@
       "doi": null,
       "url": "https://www.pewforum.org/2015/04/02/religious-projections-2010-2050/",
       "journal": null,
+      "volume": null,
       "publisher": "pewforum.org",
+      "pages": null
+   },
+   {
+      "type": "article",
+      "authors": "Radovic, E.; El-Shitany, A.; Sholkamy, H.; Benova, L.",
+      "year": 2018,
+      "title": "Rising up: Fertility trends in Egypt before and after the revolution",
+      "doi": "10.1371/journal.pone.0190148",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190148",
+      "journal": "PLoS ONE",
+      "volume": "13(1)",
+      "publisher": "journals.plos.org",
       "pages": null
    },
    {
@@ -61,6 +79,7 @@
       "doi": "",
       "url": "",
       "journal": "",
+      "volume": null,
       "publisher": "",
       "pages": ""
    },
@@ -72,6 +91,7 @@
       "doi": "",
       "url": "",
       "journal": "",
+      "volume": null,
       "publisher": "",
       "pages": ""
    },
@@ -83,6 +103,7 @@
       "doi": "",
       "url": "",
       "journal": "",
+      "volume": null,
       "publisher": "",
       "pages": ""
    },
@@ -94,6 +115,7 @@
       "doi": "",
       "url": "",
       "journal": "",
+      "volume": null,
       "publisher": "",
       "pages": ""
    },
@@ -105,6 +127,7 @@
       "doi": "",
       "url": "",
       "journal": "",
+      "volume": null,
       "publisher": "",
       "pages": ""
    },
@@ -116,6 +139,7 @@
       "doi": "",
       "url": "",
       "journal": "",
+      "volume": null,
       "publisher": "",
       "pages": ""
    },
@@ -127,6 +151,7 @@
       "doi": "",
       "url": "",
       "journal": "",
+      "volume": null,
       "publisher": "",
       "pages": ""
    },
@@ -138,6 +163,7 @@
       "doi": "",
       "url": "",
       "journal": "",
+      "volume": null,
       "publisher": "",
       "pages": ""
    },
@@ -149,6 +175,7 @@
       "doi": "",
       "url": "",
       "journal": "",
+      "volume": null,
       "publisher": "",
       "pages": ""
    },
@@ -160,6 +187,7 @@
       "doi": "",
       "url": "",
       "journal": "",
+      "volume": null,
       "publisher": "",
       "pages": ""
    },
@@ -171,6 +199,7 @@
       "doi": "",
       "url": "",
       "journal": "",
+      "volume": null,
       "publisher": "",
       "pages": ""
    },
@@ -182,6 +211,7 @@
       "doi": "",
       "url": "",
       "journal": "",
+      "volume": null,
       "publisher": "",
       "pages": ""
    },
@@ -193,22 +223,10 @@
       "doi": "",
       "url": "",
       "journal": "",
-      "publisher": "",
-      "pages": ""
-   },
-   {
-      "type": "",
-      "authors": "",
-      "year": 2000,
-      "title": "",
-      "doi": "",
-      "url": "",
-      "journal": "",
+      "volume": null,
       "publisher": "",
       "pages": ""
    }
- ],
-  
-
+ ]
 
 }

@@ -36,7 +36,7 @@
    "region": "Anden",
    "city": null,
    "latitude": 90.0,
-   "longitude": 180.0,
+   "longitude": 180.0
  },
  "period": {
     "begin": 1800,
@@ -71,7 +71,7 @@
       "publisher": "",
       "pages": ""
    }
- ],
+ ]
   
 
 
