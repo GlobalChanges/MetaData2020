@@ -1,0 +1,64 @@
+{
+ "id": "1",
+ "language": "en",
+ "title": "The Nile under pressure",
+ "abstract": "Currently, water scarcity is one of the major problems in Egypt. While its population is steadily growing, socio-political factors and climate change are increasingly influencing the country's water resources. This poster wants to highlight different facettes of Egypt's water scarcity using the Critical Zone research approach. Furthermore, possible future solutions at different spacial and temporal scales are presented: Virtual water trade, water use efficiency and desalination. Also, best practice examples from other regions of the world are presented.",
+ "year": 2020,
+ "freidok": "",
+ "pdf": "https://globalchanges.github.io/MetaData/1/Dahlmann_poster.pdf",
+ "thumbnail": "",
+ "authors": [
+   { 
+     "firstname": "",
+     "name": "",
+     "email": "",
+     "freidok": "",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "",
+   "country": "",
+   "region": "",
+   "city": "",
+   "latitude": 90.0,
+   "longitude": 180.0,
+ },
+ "period": {
+    "begin": 1800,
+    "end": 2050
+ },
+ "concept": "",
+ "topic": "",
+ "subtopic": "",
+ "keywords": ["","",""], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ],
+  
+
+
+}

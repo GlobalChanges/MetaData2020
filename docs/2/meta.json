@@ -1,0 +1,63 @@
+{
+ "id": "2",
+ "language": "de",
+ "title": "Systemkrise Wasser - Error im Akteursnetz",
+ "abstract": "Die Wasserkrise in der Metropolregion London nimmt stetig mehr Gestalt an. Das vorausliegende Problem kann nur mit einem gut funktionierenden Netzwerk bewältigt werden. Die unterschiedlichen Akteure der britischen Hauptstadt haben jedoch teils unvehältnismässige Beziehungen, was die Sicherung der Ressource Wasser gefährden könnte. Dieser Schauplatz verdeutlicht eine Problematik, wie sie in vielen Metropoloen des globalen Nordens und Südens aufzufinden sind - verworrene Netzwerke aus privatisierten Dienstleistern, einer nicht aufgeklärten Bevölkerung und einer gelähmten Administration.",
+ "year": 2020,
+ "freidok": "",
+ "pdf": "https://globalchanges.github.io/MetaData/2/Layer_Yannick_London_Akteur-Netzwerkanalyse.pdf",
+ "authors": [
+   { 
+     "firstname": "Yannick",
+     "name": "Layer",
+     "email": "yannick.layer@web.de",
+     "freidok": "",
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": "Grossbritanien",
+   "region": "England",
+   "city": "London",
+   "latitude": 51.5,
+   "longitude": 7.0,
+ },
+ "period": {
+    "begin": 1979,
+    "end": 2020
+ },
+ "concept": "Netzwerkanalyse",
+ "topic": "Resourcen",
+ "subtopic": "Wasser",
+ "keywords": ["","",""], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ],
+  
+
+
+}

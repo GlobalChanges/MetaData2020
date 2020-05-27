@@ -1,0 +1,64 @@
+{
+ "id": "3",
+ "language": "de",
+ "title": "Umwelt(un)gerechtigkeit in Kanada? Lachszucht in British Columbia",
+ "abstract": "Im Westen Kanadas, in British Colimbia, gibt es abgelegene Buchten, Fjorde und wilde Flussläufe. Diese dienen als Laichplätze der pazifischen Lachsarten und sind Heimat von First Nations. Gleichzeitig sind die Küstenstrukturen geeignet für die Fischzucht in Aquakulturen. Diese, zumeist von internationalen Unternehmen betriebenen, Fischfarmen sorgen für Arbeitsplätze in der Region, haben aber auch ökologische und sozio-kulturelle 'Nebenwirkungen'. Verschiedene First Nations sind mit dieser Form der Fischzucht konfrontiert und gezwungen Wege im Umgang damit zu finden und die eigenen Interessen gegenüber den internationalen Konzernen und der Politik zu vertreten. Wie positionieren sich die First Nations und wie gehen sie mit der Situation um? Erläuterung anhand eines Fallbeispiels auf Vancouver Island.",
+ "year": 2020,
+ "freidok": "",
+ "pdf": "https://globalchanges.github.io/MetaData/3/AquakulturKanada_Degner.pdf",  
+ "authors": [
+   { 
+     "firstname": "Felix",
+     "name": "Degner",
+     "email": "felix.hans-dieter.degner@gmx.de",
+     "freidok": "",
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Nordamerika",
+   "country": "Kanada",
+   "region": "Vancouver Island, British Columbia",
+   "city": null,     
+   "landscape": "Küste",
+   "latitude": 90.0,
+   "longitude": 180.0,
+ },
+ "period": {
+    "begin": 2020,
+    "end": 2020
+ },
+ "concept": "politische Ökologie",
+ "topic": "Meere",
+ "subtopic": "indigene Bevölkerung",
+ "keywords": ["Lachszucht","",""], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ],
+  
+
+
+}
