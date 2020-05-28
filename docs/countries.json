@@ -1,8 +1,10 @@
 {
- "Ägypten": {"map": "ag"},
+ "Ägypten": {"map": "eg"},
  "Argentinien": {"map": "ar"},
  "Bolivien": {"map": "bo"},
  "Chile": {"map": "cl"}, 
  "Grossbritanien": {"map": "uk"},
- "Kanada": {"map": "ca"} 
+ "Kanada": {"map": "ca"}, 
+
+ "Südamerika": {"map": "wrld-sa"}
 }

@@ -32,7 +32,8 @@
  ],
  "location": {
    "continent": "Südamerika",
-   "country": "Argentinien, Bolivien, Chile",
+   "country": null,
+   "countries": ["Argentinien", "Bolivien", "Chile"],
    "region": "Anden",
    "city": null,
    "latitude": 90.0,
