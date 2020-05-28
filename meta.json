@@ -1,10 +1,11 @@
 {
  "id": "0",
- "language": "",
+ "language": "de|en",
  "title": "",
  "abstract": "",
  "year": 2020,
  "freidok": "",
+ "orientation": "portrait|landscape",
  "pdf": "",
  "thumbnail": "",
  "authors": [
