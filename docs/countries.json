@@ -5,6 +5,8 @@
  "Chile": {"map": "cl"}, 
  "Grossbritanien": {"map": "uk"},
  "Kanada": {"map": "ca"}, 
+ "Deutschland": {"map": "de"}, 
 
- "Südamerika": {"map": "wrld-sa"}
+ "Südamerika": {"map": "wrld-sa"},
+ "Welt": {"map": "wrld"}
 }
