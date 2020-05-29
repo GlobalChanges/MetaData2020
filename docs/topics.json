@@ -1,8 +1,8 @@
 {
  "Energie": {"awesome": "bolt"},
  "Urbanisierung": {"awesome": "city"},
- "Wirkpfade": {"awesome": "bezier-curve"},
- "Netzwerkanalyse": {"awesome": "code-branch"},
+ "Wirkpfade": {"awesome": "code-branch"},
+ "Netzwerkanalyse": {"awesome": "bezier-curve"},
  "???": {"awesome": "sitemap"},
  "Risiko":  {"awesome": "dice"},
  "Wasser":  {"awesome": "faucet"},
