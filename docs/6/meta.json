@@ -4,9 +4,10 @@
  "title": "Image der Elektromobilität in Deutschland",
  "abstract": "In Zeiten des wachsenden Klima- und Umweltbewusstseins wird weltweit nach Alternativen zu konventionellen Kraftstoffen gesucht. Als wesentlicher Beitrag zur Energiewende gilt in Bezug auf den Verkehr die Elektromobilität. Meinungen innerhalb der deutschen Bevölkerung dazu sind ambivalent. Dennoch boomt der globale Markt für Elektroautos, woraufhin der Bedarf an Lithium steigt – der Rohstoff zur Produktion der Batterien. So haben sowohl die Menge als auch die Geschwindigkeit des Lithiumabbaus stark zugenommen und werden in Zukunft rasant ansteigen. Das weltweit größte Lithiumvorkommen befindet sich im Dreiländereck Chile, Bolivien und Argentinien. Nationale und internationale Unternehmen buhlen um den Zugriff zum „weißen Gold“. Doch der Abbau erfolgt nicht spurlos: Der angewandte Gewinnungsprozess benötigt große Mengen an Wasser, sodass die vorhandenen Wasserreserven sinken. Insbesondere in einer Region, in der ohnehin sehr trockene Verhältnisse herrschen, führt das zur Bedrohung der Lebensgrundlage der lokalen Bevölkerung, die bei dem Abbauprozess kein Mitspracherecht hat.",
  "year": 2020,
+ "orientation": "landscape",
  "freidok": "",
  "pdf": "https://globalchanges.github.io/MetaData/6/Lithiumabbau_Elektromobilitaet_EbersoldHesseSpeidel3.pdf",
- "thumbnail": "https://globalchanges.github.io/PosterExplorer/img/blog-article-2.jpg",
+ "thumbnail": "https://globalchanges.github.io/MetaData/6/thumbnail.png",
  "authors": [
    { 
      "firstname": "Theresa",

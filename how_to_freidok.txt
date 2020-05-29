@@ -41,6 +41,7 @@ https://freidok.uni-freiburg.de/fedora/objects/freidok:11545/datastreams/FILE1/c
 
 meta.json:
  * json...
+ * abstract < 700 characters
 
 
 
