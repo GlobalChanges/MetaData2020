@@ -6,7 +6,11 @@
  "Grossbritanien": {"map": "uk"},
  "Kanada": {"map": "ca"}, 
  "Deutschland": {"map": "de"}, 
+ "USA": {"map": "us"}, 
+
 
  "Südamerika": {"map": "wrld-sa"},
- "Welt": {"map": "wrld"}
+ "Nordamerika": {"map": "wrld-na"},
+ "Welt": {"map": "wrld"},
+ "use-this-icons": {"map": "http://mapglyphs.com/maps"}
 }

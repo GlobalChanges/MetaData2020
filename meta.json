@@ -5,6 +5,7 @@
  "abstract": "max. 700 char",
  "year": 2020,
  "freidok": "",
+ "doi": "",
  "orientation": "portrait|landscape",
  "pdf": "",
  "thumbnail": "",
@@ -29,6 +30,7 @@
    "country": "",
    "region": "",
    "city": "",
+   "landscape": "",
    "latitude": 90.0,
    "longitude": 180.0
  },
