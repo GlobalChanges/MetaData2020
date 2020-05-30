@@ -11,18 +11,11 @@
  "thumbnail": "https://globalchanges.github.io/MetaData/25/thumbnail.png",
  "authors": [
    { 
-     "firstname": "",
-     "name": "",
-     "email": "",
+     "firstname": "Johannes",
+     "name": "Baumann",
+     "email": "johannes.baumann@students.uni-freiburg.de",
      "freidok":"",
-     "orcid": ""
-   },
-   { 
-     "firstname": "",
-     "name": "",
-     "email": "",
-     "freidok":"",
-     "orcid": ""
+     "orcid": null
    }
  ],
  "location": {
