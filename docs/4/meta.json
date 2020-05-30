@@ -10,13 +10,6 @@
  "thumbnail": "https://globalchanges.github.io/MetaData/4/thumbnail.png",
  "authors": [
    { 
-     "firstname": "Theresa",
-     "name": "Ebersold",
-     "email": "theresa.ebersold@web.de",
-     "freidok": "",
-     "orcid": null
-   },
-   { 
      "firstname": "Janne",
      "name": "Hesse",
      "email": "janne-anna@hotmail.de",
@@ -30,6 +23,13 @@
      "freidok": "",
      "orcid": null
    }
+   { 
+     "firstname": "Theresa",
+     "name": "Ebersold",
+     "email": "theresa.ebersold@web.de",
+     "freidok": "",
+     "orcid": null
+   },
  ],
  "location": {
    "continent": "Südamerika",

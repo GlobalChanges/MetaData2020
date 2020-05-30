@@ -10,6 +10,13 @@
  "thumbnail": "https://globalchanges.github.io/MetaData/6/thumbnail.png",
  "authors": [
    { 
+     "firstname": "Alexandra",
+     "name": "Speidel",
+     "email": "alex.speidel93@web.de",
+     "freidok": "",
+     "orcid": null
+   }
+   { 
      "firstname": "Theresa",
      "name": "Ebersold",
      "email": "theresa.ebersold@web.de",
@@ -22,14 +29,8 @@
      "email": "janne-anna@hotmail.de",
      "freidok": "",
      "orcid": null
-   },
-   { 
-     "firstname": "Alexandra",
-     "name": "Speidel",
-     "email": "alex.speidel93@web.de",
-     "freidok": "",
-     "orcid": null
    }
+
  ],
  "location": {
    "continent": "Europa",
