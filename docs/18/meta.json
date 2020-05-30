@@ -1,36 +1,36 @@
 {
- "id": "0",
- "language": "de|en",
- "title": "max 70 char",
- "abstract": "max. 700 char",
+ "id": "18",
+ "language": "de",
+ "title": "California - Land of Fire?",
+ "abstract": "Welche Ursachen haben die Waldbrände in Kalifornien vor dem Hintergrund des Vulnerabilitätsansatzes?  Welche Schäden entstehen durch Waldbrände und Inwiefern können aktuelle Präventionsmanagement und –strategien diese Risiken eindämmen?  Gibt es andere Lösungsansätze?",
  "year": 2020,
  "freidok": "",
  "doi": "",
- "orientation": "portrait|landscape",
- "pdf": "",
- "thumbnail": "",
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData/18/Poster_Kalifornien_Wildfeuer_Freitag_Gruner.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData/18/thumbnail.png",
  "authors": [
    { 
-     "firstname": "",
-     "name": "",
-     "email": "",
+     "firstname": "Sarah Delphine",
+     "name": "Gruner",
+     "email": "sarah_gruner@hotmail.de",
      "freidok":"",
-     "orcid": ""
+     "orcid": null
    },
    { 
-     "firstname": "",
-     "name": "",
-     "email": "",
+     "firstname": "Sabine Luzia",
+     "name": "Freitag",
+     "email": "sabine.freitag@pluto.uni-freiburg.de",
      "freidok":"",
-     "orcid": ""
+     "orcid": null
    }
  ],
  "location": {
-   "continent": "",
-   "country": "",
-   "region": "",
-   "city": "",
-   "landscape": "",
+   "continent": "Nordamerika",
+   "country": "USA",
+   "region": "Kalifornien",
+   "city": null,
+   "landscape": "Küste",
    "latitude": 90.0,
    "longitude": 180.0
  },
@@ -38,10 +38,10 @@
     "begin": 1800,
     "end": 2050
  },
- "concept": "",
- "topic": "",
- "subtopic": "",
- "keywords": ["","",""], 
+ "concept": "Vulnerabilität & Resilienz",
+ "topic": "Landnutzung",
+ "subtopic": "Klimaextreme",
+ "keywords": ["Waldbrände","Dürren",""], 
  "sources": [
    {
       "type": "",
