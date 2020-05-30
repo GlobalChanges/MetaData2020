@@ -1,0 +1,74 @@
+{
+ "id": "0",
+ "language": "de|en",
+ "title": "max 70 char",
+ "abstract": "max. 700 char",
+ "year": 2020,
+ "freidok": "",
+ "doi": "",
+ "orientation": "portrait|landscape",
+ "pdf": "",
+ "thumbnail": "",
+ "authors": [
+   { 
+     "firstname": "",
+     "name": "",
+     "email": "",
+     "freidok":"",
+     "orcid": ""
+   },
+   { 
+     "firstname": "",
+     "name": "",
+     "email": "",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "",
+   "country": "",
+   "region": "",
+   "city": "",
+   "landscape": "",
+   "latitude": 90.0,
+   "longitude": 180.0
+ },
+ "period": {
+    "begin": 1800,
+    "end": 2050
+ },
+ "concept": "",
+ "topic": "",
+ "subtopic": "",
+ "keywords": ["","",""], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}

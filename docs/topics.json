@@ -3,7 +3,7 @@
  "Urbanisierung": {"awesome": "city"},
  "Wirkpfade": {"awesome": "code-branch"},
  "Netzwerkanalyse": {"awesome": "bezier-curve"},
- "???": {"awesome": "sitemap"},
+ "xyz": {"awesome": "sitemap"},
  "Risiko":  {"awesome": "dice"},
  "Wasser":  {"awesome": "faucet"},
  "Stoffkreisläufe":  {"awesome": "recycle"},
@@ -32,9 +32,10 @@
  "Landnutzung":  {"awesome": "layer-group"},
  "Klimaextreme":  {"awesome": "cloud-sun-rain"},
  "Wertbasierter Ansatz":  {"awesome": "heartbeat"},
- "Gerechtigeit":  {"awesome": "balance-scale"},
+ "Gerechtigkeit":  {"awesome": "balance-scale"},
  "user":  {"awesome": "user-graduate"},
  "question":  {"awesome": "question"},
+ "???": {"awesome": "question"},
  "use-this-icons": {"awesome": "https://fontawesome.com/icons?d=gallery&m=free"}
 }
 

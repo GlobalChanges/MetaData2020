@@ -1,0 +1,67 @@
+{
+ "id": "17",
+ "language": "de",
+ "title": "Metropolregion London - Wasserkrise? Volle Fahrt voraus!",
+ "abstract": "Im Juni 2019 wurde ein alarmierender Report von der britischen Labour-Abgeordneten Leonie Cooper veröffentlicht, welcher für die Metropolregion London voraussagt, dass die Wasserversorgungskapazitäten der enorm steigenden Nachfrage in den nächsten 25 Jahren mit hoher Wahrscheinlichkeit nicht mehr Stand halten werden können und folglich mit der Entstehung von lokalen bis regionalen Wasserkrisen zu rechnen ist (BBC 2019). In Anlehnung an den Ansatz von Geist und Lambin (2002) der Proximate Causes & Underlying Driving Forces sollen die der Wasserversorgungs-Problematik am Schauplatz zu Grunde liegenden Faktoren eruiert, eingeordnet und übersichtlich dargestellt werden. Die identifizierten Driving Forces der nationalen oder globalen Ebene bzw. die Proximate Causes der lokalen Ebene bilden jeweils untereinander sowie zueinander ein komplexes Netzwerk aus bestimmten oder wechselseitigen Beziehungszuammenhängen. Eine eigene Darstellung dieser Verbindungen in Bezug auf die Wasserstress-Problematik am Schauplatz London ist im Anhang  einsehbar. Sie werden dem/der Betrachter/in des Plakats bewusst vorenthalten, da das Plakat der betrachtenden Person auf diese Weise Raum und Möglichkeiten für individuell-subjektive Perspektiven auf die Problematik und deren zu Grunde liegenden Faktoren geben soll. So kann die betrachtende Person zum Nachdenken angeregt und in dessen Zuge zur eigenständigen Suche nach den direkten oder indirekten Beziehungszusammenhängen der verantwortlichen Faktoren motiviert werden. Ziel ist es letzlich Erkenntnisse über die vielseitigen Verbindungen zwischen global und lokal wirkenden Einflussfaktoren, die dahinterstehenden treibenden Kräfte und die unmittelbaren Ursachen zu vermitteln. Hiermit einhergehend kann somit beispielhaft anhand des lokalen Wasserstress-Schauplatzes London ein grundlegendes Verständnis für die Funktionsweise und Komplexität von globalen Wandlungsdynamiken weitergegeben werden.",
+ "year": 2020,
+ "freidok": "",
+ "doi": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData/17/Poster-Wasserkrise-London_Coenen.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData/17/thumbnail.png",
+ "authors": [
+   { 
+     "firstname": "Simon",
+     "name": "Coenen",
+     "email": "simoncoenen@gmx.de",
+     "freidok":"",
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": "Großbritannien",
+   "region": "Nordseeraum",
+   "city": "London",
+   "landscape": "Großstadt",
+   "latitude": 51.509865,
+   "longitude": -0.118092
+ },
+ "period": {
+    "begin": 2009,
+    "end": 2020
+ },
+ "concept": "Wirkpfade",
+ "topic": "Ressourcen",
+ "subtopic": "Wasser",
+ "keywords": ["","",""], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
