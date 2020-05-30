@@ -1,0 +1,74 @@
+{
+ "id": "19",
+ "language": "de",
+ "title": "California Drilling?",
+ "abstract": "Welche Nutzungskonflikte um die Ressource Wasser finden aufgrund der Wasserknappheit in Kalifornien statt. Inwiefern wird die Problematik durch das häufigere Auftreten extremer Dürreperioden im Zuge des Klimawandels weiter verschärft und was sind mögliche Lösungsansätze?",
+ "year": 2020,
+ "freidok": "",
+ "doi": "",
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData/19/Poster_Kalifornien_Wasserknappheit_Freitag_Gruner.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData/19/thumbnail.png",
+ "authors": [
+   { 
+     "firstname": "Sabine Luzia",
+     "name": "Freitag",
+     "email": "sabine.freitag@pluto.uni-freiburg.de",
+     "freidok":"",
+     "orcid": null
+   },
+   { 
+     "firstname": "Sarah Delphine",
+     "name": "Gruner",
+     "email": "sarah_gruner@hotmail.de",
+     "freidok":"",
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Nordamerika",
+   "country": "USA",
+   "region": "Kalifornien",
+   "city": null,
+   "landscape": null,
+   "latitude": 90.0,
+   "longitude": 180.0
+ },
+ "period": {
+    "begin": 2020,
+    "end": 2020
+ },
+ "concept": "Vulnerabilität & Resilienz",
+ "topic": "Ressourcen",
+ "subtopic": "Wasser",
+ "keywords": ["","Dürre","Klimawandel"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}

@@ -1,0 +1,74 @@
+{
+ "id": "25",
+ "language": "de",
+ "title": "Wasserkrise in Spanien",
+ "abstract": "Die Wasserkrise in Spanien verschärft sich. Der Wasserbedarf kann auf lange Sicht nicht mehr gedeckt werden. Besonders die Landwirtschaft verbraucht sehr viel Wasser. In den letzten Jahrzehnten konnten Dürren immer wieder als Katalysator für Reformen genutzt werden. Die Region Almería ist Vorreiter in effizienter und wassersparender Landwirtschaft. Doch reichen diese Innovationen für eine nachhaltigere Wasserversorgung aus?",
+ "year": 2020,
+ "freidok": "",
+ "doi": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData/25/Poster_Baumann.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData/25/thumbnail.png",
+ "authors": [
+   { 
+     "firstname": "",
+     "name": "",
+     "email": "",
+     "freidok":"",
+     "orcid": ""
+   },
+   { 
+     "firstname": "",
+     "name": "",
+     "email": "",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": "Spanien",
+   "region": "Mittelmeerraum",
+   "city": "Almería",
+   "landscape": "Mediterran",
+   "latitude": 36.834045,
+   "longitude": -24.63714
+ },
+ "period": {
+    "begin": 1978,
+    "end": 2019
+ },
+ "concept": "Vulnerabilität & Resilienz",
+ "topic": "Klimawandel",
+ "subtopic": "Wasser",
+ "keywords": ["Landwirtschaft","",""], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}

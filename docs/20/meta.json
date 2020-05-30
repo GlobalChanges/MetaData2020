@@ -1,0 +1,88 @@
+{
+ "id": "20",
+ "language": "de",
+ "title": "Was passiert, wenn das Dach der Welt schmilzt?",
+ "abstract": "Wir haben uns auf unseren Plakaten mit der Gletscherschmelze des Himalayas und dessen Auswirkungen auf die Bevölkerung in der Region beschäftigt. Dabei haben wir das Konzept der Tipping Points genutzt, um aufzeigen zu können, wie relevant diese Thematik momentan ist. Außerdem zeigen wir anhand eines Wirkungsgefüges auf, wie die Ursachen und die Auswirkungen zusammenhängen. Abschließend zeigen wir andere Orte der Welt auf, die sich mit den gleichen Problemen befassen müssen und schauen uns deren Herangehensweisen an, um zu versuchen zu bewerten, inwiefern diese auch die die Himalaya-Karakourum-Hindukush Region infrage kommen.",
+ "year": 2020,
+ "freidok": "",
+ "doi": "",
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData/20/Plakat 1_Gruppe Himalaya.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData/20/thumbnail.png",
+ "authors": [
+   { 
+     "firstname": "Catarina",
+     "name": "Clément",
+     "email": "catarina.clement@gmx.net",
+     "freidok":"",
+     "orcid": null
+   },
+   { 
+     "firstname": "Denise",
+     "name": "Andre",
+     "email": "denise.andre@gmx.de",
+     "freidok":"",
+     "orcid": null
+   },
+   { 
+     "firstname": "Carla",
+     "name": "Van der Meyden",
+     "email": "carla.jvdm@yahoo.de",
+     "freidok":"",
+     "orcid": null
+   },
+   { 
+     "firstname": "Franziska",
+     "name": "Reitzenstein",
+     "email": "franziska.reitzenstein@gmx.de",
+     "freidok":"",
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Asien",
+   "country": null,
+   "region": "Himalaya",
+   "city": null,
+   "landscape": "Hochgebirge",
+   "latitude": 90.0,
+   "longitude": 180.0
+ },
+ "period": {
+    "begin": 1950,
+    "end": 2050
+ },
+ "concept": "Tipping Points",
+ "topic": "Klimawandel",
+ "subtopic": "Erwärmung",
+ "keywords": ["Gletscherschmelze","",""], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
