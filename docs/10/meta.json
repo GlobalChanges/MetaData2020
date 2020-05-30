@@ -1,0 +1,65 @@
+{
+ "id": "10",
+ "language": "de",
+ "title": "'Blaue Revolution' - wer profitiert? Marine Lachs-Aquakultur in Chile",
+ "abstract": "Das größte Zuchtlachsunternehmen der Welt (MOWI) betreibt vor den Küsten Chiles in hohem Maße marine Aquakultur. Im Jahr 2018 wurden weltweit 2 176 000 Tonnen Lachs produziert - davon 609 700 Tonnen in Chile. Mit über 1000 ansässigen Unternehmen existiert dort ein Lachscluster. Der Atlantische Lachs (Salmo salar) wird von MOWI größtenteils exportiert. Wer gewinnt in dem System, wer verliert? Welche Unterschiede bestehen zwischen globalem Süden und globalem Norden? Wie wird die Situation aussehen, wenn in einigen Jahren mehr Fisch aus Aquakultur stammt als aus Wildfang?",
+ "year": 2020,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData/10/Aquakultur_Corinna_Juergens.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData/10/thumbnail.png",
+ "authors": [
+   { 
+     "firstname": "Corinna",
+     "name": "Jürgens",
+     "email": "c.juergens@posteo.de",
+     "freidok":"",
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Südamerika",
+   "country": "Chile",
+   "region": "Isla Grande de Chiloé",
+   "city": "Castro",
+   "latitude": -42.45994,
+   "longitude": -73.866829
+ },
+ "period": {
+    "begin": 1950,
+    "end": 2020
+ },
+ "concept": "Politische Ökologie",
+ "topic": "Ressourcen",
+ "subtopic": "Ernährung",
+ "keywords": ["Lachszucht","",""], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
