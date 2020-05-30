@@ -7,8 +7,10 @@
  "Kanada": {"map": "ca"}, 
  "Deutschland": {"map": "de"}, 
  "USA": {"map": "us"}, 
+ "Ghana": {"map": "gh"}, 
+ "Burkina Faso": {"map": "bf"},
 
-
+ "Afrika": {"map": "wrld-af"},
  "Südamerika": {"map": "wrld-sa"},
  "Nordamerika": {"map": "wrld-na"},
  "Welt": {"map": "wrld"},

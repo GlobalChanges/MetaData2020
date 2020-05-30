@@ -1,0 +1,67 @@
+{
+ "id": "13",
+ "language": "de",
+ "title": "Zerstörte Wälder Amazoniens - Ein Schauplatz imperialer Lebensweisen?",
+ "abstract": "Amazonien ist durch eine zunehmende Abholzung bedroht. Dies hat heute bereits verheerende Auswirkungen für betroffene Menschen und die Biodiversität. Ein Kipppunkt könnte diese Entwicklung weiter anheizen und eine Aridisierung und damit ein grundlegenden Wandel der Öko- und Klimasysteme vor Ort und weltweit bedeuten. Die Gründe für die Zerstörung des amazonischen Urwaldes sind vielfältig und multifaktoriell. Die indirekten treibenden Kräfte sind nicht zuletzt die beteiligten Unternehmen und die Endverbraucher der in den betroffenen Gebieten produzierten Gütern und Nahrungsmitteln. Nur wenige Medien nehmen bei der Behandlung der Problematik zunehmender Abholzung und brennender Wälder des Amazonas unsere imperialen Lebensweisen als underlying driving forces für die Entwaldung und die problematische Landnutzung in den Blick. Die eigene Konsumverantwortung und die fehlende Unternehmensethik werden nicht diskutiert. Stattdessen werden vor allem mögliche wirtschaftliche Sanktionen gegen Brasilien behandelt und den Amazonas Regenwald als mögliche Allmende diskutiert. Somit wird die alleinige Verantwortung auf Brasilien projiziert. Der Schutz des Amazonasgebietes ist selbstverständlich nicht unwichtig, jedoch sollte eine grundlegende Debatte über die europäische Verantwortung dieser Krisen geführt werden.",
+ "year": 2020,
+ "freidok": "",
+ "doi": "",
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData/13/Woerner_Timo_Amazonien.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData/13/thumbnail.png",
+ "authors": [
+   { 
+     "firstname": "Timo",
+     "name": "Wörner",
+     "email": "timo.woerner@students.uni-freiburg.de",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Südamerika",
+   "country": "Brasilien",
+   "region": "Amazonien",
+   "city": null,
+   "landscape": "Regenwald",
+   "latitude": -2.4,
+   "longitude": -54.7
+ },
+ "period": {
+    "begin": 2001,
+    "end": 2020
+ },
+ "concept": "politische Ökologie",
+ "topic": "Ressourcen",
+ "subtopic": "Desertifikation",
+ "keywords": ["Imperiale Lebensweise","Entwaldung",""], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
