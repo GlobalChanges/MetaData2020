@@ -1,0 +1,66 @@
+{
+ "id": "7",
+ "language": "de",
+ "title": "Miami: Das nächste Atlantis?",
+ "abstract": "Folgen, Risiken und mögliche Lösungsansätze des steigenden Meeresspiegels",
+ "year": 2020,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData/7/Poster_Miami_Alena Konrad.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData/7/thumbnail.png",
+ "authors": [
+   { 
+     "firstname": "Alena",
+     "name": "Konrad",
+     "email": "alenakonrad15@gmail.com",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Nordamerika",
+   "country": "USA",
+   "region": "Florida",
+   "city": "Miami",
+   "landscape": "Küste", 
+   "latitude": 90.0,
+   "longitude": 180.0
+ },
+ "period": {
+    "begin": 1931,
+    "end": 2020
+ },
+ "concept": "Risiko",
+ "topic": "Meere",
+ "subtopic": "Erwärmung",
+ "keywords": ["Meeresspiegelanstieg","",""], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
