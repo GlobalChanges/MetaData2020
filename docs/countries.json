@@ -9,7 +9,9 @@
  "USA": {"map": "us"}, 
  "Ghana": {"map": "gh"}, 
  "Burkina Faso": {"map": "bf"},
+ "Brasilien": {"map": "br"},
 
+ "Europa": {"map": "wrld-eu"},
  "Afrika": {"map": "wrld-af"},
  "Südamerika": {"map": "wrld-sa"},
  "Nordamerika": {"map": "wrld-na"},
