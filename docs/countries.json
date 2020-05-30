@@ -26,5 +26,6 @@
  "Mittlerer Osten": {"map": "wrld-me"},
 
  "Welt": {"map": "wrld"},
+ "Alle": {"map": "wrld"},
  "use-this-icons": {"map": "http://mapglyphs.com/maps"}
 }
