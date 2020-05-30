@@ -1,0 +1,69 @@
+{
+ "id": "12",
+ "language": "de",
+ "title": "Zero Hunger: Wie ernähren sich die Städte? - Urbane Ernährungssicherung in Westafrika",
+ "abstract": "Trotz sinkender Unterernährung bleibt die Nahrungs- und Ernährungssicherheit in vielen westafrikanischen Städten, wie zum Beispiel Tamale (Ghana) und Ouagadougou (Burkina-Faso), eine große Herausforderung. Verschiedene Aspekte des globalen Wandels haben teils große Auswirkungen auf die urbanen Nahrungssysteme und beeinflussen somit die städtische Ernährungssicherung. Sowohl Tamale als auch Ouagadougou beziehen ihre Nahrungsmittel aus globalen, kontinentalen, nationalen und lokaeln Gebieten. Dabei spielen verschiedene politische, ökonomische, ökologische und gesellschaftliche Einflussfaktoren eine wichtige Rolle und stellen die urbanen Nahrungssysteme teilweise vor große Herausforderungen. Bevölkerungswachstum, Urbanisierung , Globalisierung, gesellschafltiche Veränderungen, Umweltveränderungen, eingeschränkte Transport- und Kommunikationsinfrastruktur  oder auch Landnutzungskonflikte sind zum Beispiel typische Aspekte. Diverse Ansätze  zur Förderung der Ernährungssicherheit werden bereits durchgeführt bzw. gewinnen an Popularität. Konzepte wie Ernährungssouveränität, urbane Landwirtschaft, Bildung von Nährstoffkreisläufen oder ein verbessertes Ressourcenmanagement der städtischen Bevölkerung, fördern die Widerstansfähigkeit und Nachhaltigkeit der urbanen Nahrungssysteme und tragen zur Ernährungssicherung bei.",
+ "year": 2020,
+ "freidok": "",
+ "doi": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData/12/Poster Ernaehrungssicherung_Franziska Fedder.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData/12/thumbnail.png",
+ "authors": [
+   { 
+     "firstname": "Franziska",
+     "name": "Fedder",
+     "email": "franziskafedder@gmx.de",
+     "freidok":"",
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Afrika",
+   "country": null,
+   "countries": ["Burkina-Faso", "Ghana"],
+   "region": "Westafrika",
+   "city": null,
+   "cities": ["Ouagadougou","Tamale"],
+   "landscape": "Tiefland",
+   "latitude": 90.0,
+   "longitude": 180.0
+ },
+ "period": {
+    "begin": 2020,
+    "end": 2020
+ },
+ "concept": "Vulnerabilität & Resilienz",
+ "topic": "Ernährung",
+ "subtopic": "Urbanisierung",
+ "keywords": ["","",""], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}

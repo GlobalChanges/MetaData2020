@@ -1,0 +1,67 @@
+{
+ "id": "11",
+ "language": "en",
+ "title": "The Nile Delta - A Critical Zone? An interdisciplinary perspective on global change.",
+ "abstract": "The term Critical Zone, taken over from the geosciences – originally referring to a spot on the envelope of the biosphere –, is extended by Bruno Latour to describe a critical, participatory relationship of humans to their living environment. Instead of a single human agency “on the nature”, this interdisciplinary approach parses the ideas of the living planet in smaller pieces by tracing diverse combinations of multiple heterogeneous agencies. Within the CZ, all interacting „ingredients“, e.g. laws, cultural and economic practices, political and ethnical conflicts, soil, water, animals, scientific theories, etc. are considered on the very same level.",
+ "year": 2020,
+ "freidok": "",
+ "doi": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData/11/Poster_CriticalZone_JuliaDickow.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData/11/thumbnail.png",
+ "authors": [
+   { 
+     "firstname": "Julia",
+     "name": "Dickow",
+     "email": "julia.dickow@posteo.de",
+     "freidok":"",
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Afrika",
+   "country": "Ägypten",
+   "region": "Nilregion",
+   "city": "Kairo",
+   "landscape": "Flussdelta",
+   "latitude": 30.9,
+   "longitude": 31.1167
+ },
+ "period": {
+    "begin": 2019,
+    "end": 2020
+ },
+ "concept": "Critical Zones",
+ "topic": "Ressourcen",
+ "subtopic": "Wasser",
+ "keywords": ["Nile","",""], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
