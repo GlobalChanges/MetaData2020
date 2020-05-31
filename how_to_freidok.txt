@@ -47,7 +47,7 @@ meta.json:
 
 
 ---
-Urbanisierung/Ernaehrung <-->
+
 
 
 
