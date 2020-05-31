@@ -47,7 +47,8 @@
  "Mediterran":  {"awesome": "lemon"},
  "Fluss":  {"awesome": "fish"},
  "Wüste":  {"awesome": "cactus"},
- "Tiefland":  {"awesome": "equals"},
+ "Tiefland":  {"awesome": "grip-lines"},
+ "Inseln":  {"awesome": "pastafarianism"},
  "Alle":  {"awesome": "check"},
  "???": {"awesome": "question"},
  "use-this-icons": {"awesome": "https://fontawesome.com/icons?d=gallery&m=free"}
