@@ -2,7 +2,7 @@
  "id": "2",
  "language": "de",
  "title": "Systemkrise Wasser - Error im Akteursnetz",
- "abstract": "Die Wasserkrise in der Metropolregion London nimmt stetig mehr Gestalt an. Das vorausliegende Problem kann nur mit einem gut funktionierenden Netzwerk bewältigt werden. Die unterschiedlichen Akteure der britischen Hauptstadt haben jedoch teils unvehältnismässige Beziehungen, was die Sicherung der Ressource Wasser gefährden könnte. Dieser Schauplatz verdeutlicht eine Problematik, wie sie in vielen Metropoloen des globalen Nordens und Südens aufzufinden sind - verworrene Netzwerke aus privatisierten Dienstleistern, einer nicht aufgeklärten Bevölkerung und einer gelähmten Administration.",
+ "abstract": "Die Wasserkrise in der Metropolregion London nimmt stetig mehr Gestalt an. Das vorausliegende Problem kann nur mit einem gut funktionierenden Netzwerk bewältigt werden. Die unterschiedlichen Akteure der britischen Hauptstadt haben jedoch teils unverhältnismässige Beziehungen, was die Sicherung der Ressource Wasser gefährden könnte. Dieser Schauplatz verdeutlicht eine Problematik, wie sie in vielen Metropoloen des globalen Nordens und Südens aufzufinden sind - verworrene Netzwerke aus privatisierten Dienstleistern, einer nicht aufgeklärten Bevölkerung und einer gelähmten Administration.",
  "year": 2020,
  "orientation": "landscape",
  "freidok": "",
@@ -22,6 +22,7 @@
    "country": "Großbritannien",
    "region": "England",
    "city": "London",
+   "landscape": "Großstadt",
    "latitude": 51.5,
    "longitude": 7.0
  },
