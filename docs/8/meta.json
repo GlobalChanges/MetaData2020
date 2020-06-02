@@ -5,16 +5,15 @@
  "abstract": "Der Mensch ist ein signifikanter Stressor, welcher auf den Nil als Critical Zone einwirkt. Das steigende Bevölkerungswachstum in Ägypten, hervorgerufen durch Entwicklungen auf globaler sowie lokaler Ebene, erodiert die Stabilität der Critical Zone Nil. Die Auswirkungen des stetigen Anstiegs des äyptischen Bevölkerung sind auf lokaler und globaler Ebene zu erkennen. Es lassen sich drei Best Practice Ansätze im Hinblick auf steigende Bevölkerungszahlen identifizieren (sexuelle Aufklärung, Stärkung der Rolle der Frau und Familienplanung).",
  "year": 2020,
  "freidok": "165764",
- "doi": "",
- "pdf": null,
- "pdf2": "https://freidok.uni-freiburg.de/fedora/objects/freidok:165764/datastreams/FILE1/content",
+ "doi": "10.6094/UNIFR/165764",
+ "pdf": "https://freidok.uni-freiburg.de/fedora/objects/freidok:165764/datastreams/FILE1/content",
  "thumbnail": "https://globalchanges.github.io/MetaData/8/thumbnail.png",
  "authors": [
    { 
      "firstname": "Matthias",
      "name": "Berresheim",
      "email": "matthiasberresheim96@web.de",
-     "freidok":"",
+     "freidok": "268550",
      "orcid": null
    }
  ],

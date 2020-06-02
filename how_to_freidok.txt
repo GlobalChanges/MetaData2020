@@ -3,6 +3,27 @@ ORCID:
 
 FREIDOK
 https://freidok.uni-freiburg.de/site/submissionLogin
+Anleitung:
+https://freidok.uni-freiburg.de/fedora/objects/freidok:154835/datastreams/FILE1/content
+https://freidok.uni-freiburg.de/fedora/objects/freidok:154836/datastreams/FILE1/content
+
+Dokumenttyp: "Arbeitspapier"
+DOI:leer, Titel, Sprache, Jahr
+
+Personen:
+ Autor: self -> Anlegen mit Orcid-Id
+ Herausgeber: Ruediger Glaser
+ Herausgeber: Michael Kahle
+Institution: Professur fuer Physische Geographie
+
+Abstract: ...
+Beschreibung: "Poster"
+
+Schlagwort:
+ kontrolliert: Geografie, Wandel + "Globaler Wandel" + "Global Change"
+ DDC:          900: Geschichte, Geografie und Hilfswissenschaften
+
+Ist ein Teil von: "Geographie des Globalen Wandels"  Zaehlung: <ID>
 
 
 
