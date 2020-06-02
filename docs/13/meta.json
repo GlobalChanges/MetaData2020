@@ -3,6 +3,7 @@
  "language": "de",
  "title": "Zerstörte Wälder Amazoniens - Ein Schauplatz imperialer Lebensweisen?",
  "abstract": "Amazonien ist durch eine zunehmende Abholzung bedroht. Dies hat heute bereits verheerende Auswirkungen für betroffene Menschen und die Biodiversität. Ein Kipppunkt könnte diese Entwicklung weiter anheizen und eine Aridisierung und damit ein grundlegenden Wandel der Öko- und Klimasysteme vor Ort und weltweit bedeuten. Die Gründe für die Zerstörung des amazonischen Urwaldes sind vielfältig und multifaktoriell. Die indirekten treibenden Kräfte sind nicht zuletzt die beteiligten Unternehmen und die Endverbraucher der in den betroffenen Gebieten produzierten Gütern und Nahrungsmitteln. Nur wenige Medien nehmen bei der Behandlung der Problematik zunehmender Abholzung und brennender Wälder des Amazonas unsere imperialen Lebensweisen als underlying driving forces für die Entwaldung und die problematische Landnutzung in den Blick. Die eigene Konsumverantwortung und die fehlende Unternehmensethik werden nicht diskutiert. Stattdessen werden vor allem mögliche wirtschaftliche Sanktionen gegen Brasilien behandelt und den Amazonas Regenwald als mögliche Allmende diskutiert. Somit wird die alleinige Verantwortung auf Brasilien projiziert. Der Schutz des Amazonasgebietes ist selbstverständlich nicht unwichtig, jedoch sollte eine grundlegende Debatte über die europäische Verantwortung dieser Krisen geführt werden.",
+ "teaser": "Amazonien ist durch eine zunehmende Abholzung bedroht, mit verheerenden Auswirkungen für den Mensch und die Biodiversität. Ein Kipppunkt könnte diese Entwicklung weiter anheizen und einen weitreichenden Wandel der Öko- und Klimasysteme vor Ort und weltweit bedeuten. Die Gründe für die Zerstörung des amazonischen Urwaldes sind multifaktoriell. Die indirekten treibenden Kräfte sind nicht zuletzt die beteiligten Unternehmen und die Endverbraucher der in den betroffenen Gebieten produzierten Güter und Nahrungsmittel. Nur wenige Medien nehmen in ihrer Berichterstattung unsere imperialen Lebensweisen als underlying driving forces für die Entwaldung und die problematische Landnutzung in den Blick.",
  "year": 2020,
  "freidok": "",
  "doi": "",
@@ -33,8 +34,8 @@
  },
  "concept": "Politische Ökologie",
  "topic": "Ressourcen",
- "subtopic": "Desertifikation",
- "keywords": ["Imperiale Lebensweise","Entwaldung",""], 
+ "subtopic": "Landnutzung",
+ "keywords": ["Imperiale Lebensweise", "Entwaldung", "Desertifikation", "imperialen Lebensweise", "driving forces"], 
  "sources": [
    {
       "type": "",
