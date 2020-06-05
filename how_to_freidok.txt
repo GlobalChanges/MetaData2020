@@ -22,7 +22,7 @@ Abstract: ...
 Beschreibung: "Poster"
 
 Schlagwort:
- kontrolliert: Geografie, Wandel + "Globaler Wandel" + "Global Change"
+ kontrolliert: Geografie, Wandel, Globalisierung + "Globaler Wandel" + "Global Change"
  DDC:          900: Geschichte, Geografie und Hilfswissenschaften
 
 Ist ein Teil von: "Geographie des Globalen Wandels"  Zaehlung: <ID>
@@ -60,8 +60,11 @@ meta.json:
 ---
 
 
-Kanada,Oel, 15, -> Sources.. DOIs
+https://reflectingbarcelonatourism.geographie.uni-freiburg.de/elborn.html#
+... > impressum, ds
 
 
+
+https://www.zella.de/code/bild-lupe.html
 
 
