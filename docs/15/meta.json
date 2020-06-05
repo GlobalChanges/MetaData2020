@@ -1,5 +1,7 @@
 {
  "id": "15",
+ "previous": "3",
+ "next": "3",
  "language": "de",
  "title": "Umwelt(Un)Gerechtigkeit in Kanada? Ölsandabbau in Alberta",
  "abstract": "Trotz Klimaabkommen und Absichtsbekundungen zu Treibhausgasreduzierungen, steigt der Energiebedarf weltweit und auch in Nordamerika. Kanada ist durch den Ölsandabbau im Norden Albertas zu einem der größten Ölproduzenten und Co2-Emitenten geworden und will den Ölsandabbau noch weiter ausbauen. Die Förderung ist jedoch sehr energieaufwendig und hat für die Umwelt gravierende Folgen. Kontaminierte Flüsse, abgeholzte Nadelwälder und kontaminierte Böden sind die Folge von unzureichend abgesicherten Anlagen und häufigen Pipelineschäden. First Nations, auf deren angestammten Flächen sich der Abbau und Transport größtenteils stattfindet, protestieren seit Jahrzehnten dagegen und kämpfen für ihre Rechte - auf Land, Ressourcennutzung und Gesundheit. Ihre unterschiedlichen Protestformen haben internationales Aufsehen erregt. Von politischer Seite werden sie dafür immer wieder angegriffen oder schlicht weg ignoriert. Dabei sind die First Nations zentrale Akteure der lokalen Landbewirtschaftungen und ihr Wissen und ihre Herangehensweisen, auch im Rahmen zunehmender Community Energy Projekte mit erneuerbaren Energien, sind maßgeblich für eine zukunftsfähige Gesellschaft, wie es die SDGs fordern.",
@@ -8,7 +10,7 @@
  "freidok": "165857",
  "doi": "10.6094/UNIFR/165857",
  "orientation": "portrait",
- "pdf": "https://globalchanges.github.io/MetaData/15/poster.pdf",
+ "pdf": "https://freidok.uni-freiburg.de/fedora/objects/freidok:165857/datastreams/FILE1/content",
  "thumbnail": "https://globalchanges.github.io/MetaData/15/thumbnail.png",
  "image": "https://freidok.uni-freiburg.de/document/getLogoByPath?mode=freidok&filename=165857_1&mime=png",
  "authors": [

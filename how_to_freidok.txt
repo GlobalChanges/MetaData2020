@@ -64,7 +64,14 @@ https://reflectingbarcelonatourism.geographie.uni-freiburg.de/elborn.html#
 ... > impressum, ds
 
 
-
+https://themesberg.com/docs/neumorphism-ui/components/modals/
 https://www.zella.de/code/bild-lupe.html
+https://openlayers.org/en/latest/examples/magnify.html
+https://openlayers.org/en/latest/examples/zoomify.html
+
+https://openlayers.org/en/latest/examples/icon.html
+http://dev.openlayers.org/releases/OpenLayers-2.13.1/docs/files/OpenLayers/Marker-js.html
+
+
 
 
