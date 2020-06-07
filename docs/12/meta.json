@@ -5,17 +5,18 @@
  "abstract": "Trotz sinkender Unterernährung bleibt die Nahrungs- und Ernährungssicherheit in vielen westafrikanischen Städten, wie zum Beispiel Tamale (Ghana) und Ouagadougou (Burkina-Faso), eine große Herausforderung. Verschiedene Aspekte des globalen Wandels haben teils große Auswirkungen auf die urbanen Nahrungssysteme und beeinflussen somit die städtische Ernährungssicherung. Sowohl Tamale als auch Ouagadougou beziehen ihre Nahrungsmittel aus globalen, kontinentalen, nationalen und lokaeln Gebieten. Dabei spielen verschiedene politische, ökonomische, ökologische und gesellschaftliche Einflussfaktoren eine wichtige Rolle und stellen die urbanen Nahrungssysteme teilweise vor große Herausforderungen. Bevölkerungswachstum, Urbanisierung , Globalisierung, gesellschafltiche Veränderungen, Umweltveränderungen, eingeschränkte Transport- und Kommunikationsinfrastruktur  oder auch Landnutzungskonflikte sind zum Beispiel typische Aspekte. Diverse Ansätze  zur Förderung der Ernährungssicherheit werden bereits durchgeführt bzw. gewinnen an Popularität. Konzepte wie Ernährungssouveränität, urbane Landwirtschaft, Bildung von Nährstoffkreisläufen oder ein verbessertes Ressourcenmanagement der städtischen Bevölkerung, fördern die Widerstansfähigkeit und Nachhaltigkeit der urbanen Nahrungssysteme und tragen zur Ernährungssicherung bei.",
  "teaser": "Trotz sinkender Unterernährung bleibt die Nahrungs- und Ernährungssicherheit in vielen westafrikanischen Städten eine große Herausforderung. Verschiedene Aspekte des globalen Wandels haben teils große Auswirkungen auf die urbanen Nahrungssysteme. Bevölkerungswachstum, Urbanisierung, Globalisierung, gesellschaftliche Veränderungen sind typische Aspekte. Diverse Ansätze zur Förderung der Ernährungssicherheit werden bereits durchgeführt bzw. gewinnen an Popularität. Konzepte wie Ernährungssouveränität, urbane Landwirtschaft und Bildung von Nährstoffkreisläufen fördern die Widerstandsfähigkeit und Nachhaltigkeit der urbanen Nahrungssysteme und tragen zur Ernährungssicherung bei.",
  "year": 2020,
- "freidok": "",
+ "freidok": "165890",
  "doi": "",
  "orientation": "landscape",
  "pdf": "https://globalchanges.github.io/MetaData/12/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/MetaData/12/thumbnail.png",
+ "image": "https://freidok.uni-freiburg.de/document/getLogoByPath?mode=freidok&filename=165890_1&mime=png",
  "authors": [
    { 
      "firstname": "Franziska",
      "name": "Fedder",
      "email": "franziskafedder@gmx.de",
-     "freidok":"",
+     "freidok": "268832",
      "orcid": null
    }
  ],

@@ -68,10 +68,15 @@ https://themesberg.com/docs/neumorphism-ui/components/modals/
 https://www.zella.de/code/bild-lupe.html
 https://openlayers.org/en/latest/examples/magnify.html
 https://openlayers.org/en/latest/examples/zoomify.html
+http://www.zoomify.com/converters.htm#conversionScripted
+ https://sourceforge.net/projects/zoomifyimage/
+ http://greengaloshes.cc/2007/05/zoomifyimage-ported-to-php/
+
 
 https://openlayers.org/en/latest/examples/icon.html
 http://dev.openlayers.org/releases/OpenLayers-2.13.1/docs/files/OpenLayers/Marker-js.html
 
 
+https://de.wikipedia.org/wiki/Syndromkonzept
 
 
