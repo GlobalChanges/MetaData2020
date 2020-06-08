@@ -1,0 +1,27 @@
+01: freidok, zoomify, pdf, sources, extras
+02: freidok, zoomify, pdf, sources
+03: pdf, sources, extras
+04: freidok, zoomify, pdf, sources
+05: freidok, zoomify, pdf, sources
+06: freidok, zoomify, pdf, sources
+07: freidok, zoomify, pdf, sources
+08: sources, extras
+09: freidok, zoomify, pdf, sources
+10: freidok, zoomify, pdf, sources
+11: freidok, zoomify, pdf, sources
+12: pdf, sources
+13: pdf, sources
+14: pdf, sources
+15: sources
+16: freidok, zoomify, pdf, sources
+17: freidok, zoomify, pdf, sources
+18: freidok, zoomify, pdf, sources
+19: freidok, zoomify, pdf, sources
+20: freidok, zoomify, pdf, sources
+21: freidok, zoomify, pdf, sources
+22: freidok, zoomify, pdf, sources
+23: freidok, zoomify, pdf, sources
+24: freidok, zoomify, pdf, sources
+25: freidok, zoomify, pdf, sources, extras
+
+look for extras in template.xls

@@ -5,12 +5,9 @@
  "abstract": "max. 700 char",
  "year": 2020,
  "freidok": "",
- "doi": "10.6094/UNIFR/{{freidok}}",
  "orientation": "portrait|landscape",
- "pdf": "https://freidok.uni-freiburg.de/fedora/objects/freidok:{{freidok}}/datastreams/FILE1/content",
- "image": "https://freidok.uni-freiburg.de/document/getLogoByPath?mode=freidok&filename={{freidok}}_1&mime=png",
+ "pdf": "https://globalchanges.github.io/MetaData/{{id}}/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/MetaData/{{id}}/thumbnail.png",
- "zoomify": ["https://globalchanges.github.io/MetaData/{{id}}/zoomify"],
  "authors": [
    { 
      "firstname": "",
