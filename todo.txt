@@ -1,9 +1,9 @@
 01: pdf, sources, extras(raw:info.pdf)
 02: pdf, sources, extras(xls)
 03: pdf, sources, extras
-04: zoomify, pdf, sources            
-05: zoomify, pdf, sources
-06: zoomify, pdf, sources
+04: pdf, sources            
+05: pdf, sources
+06: pdf, sources
 07: freidok, zoomify, pdf, sources
 08: sources, extras
 09: freidok, zoomify, pdf, sources
