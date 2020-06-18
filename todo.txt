@@ -1,9 +1,9 @@
 01: pdf, sources, extras(raw:info.pdf)
 02: pdf, sources, extras(xls)
 03: pdf, sources, extras
-04: freidok, zoomify, pdf, sources
-05: freidok, zoomify, pdf, sources
-06: freidok, zoomify, pdf, sources
+04: zoomify, pdf, sources            
+05: zoomify, pdf, sources
+06: zoomify, pdf, sources
 07: freidok, zoomify, pdf, sources
 08: sources, extras
 09: freidok, zoomify, pdf, sources
@@ -15,12 +15,12 @@
 15: sources
 16: freidok, zoomify, pdf, sources
 17: freidok, zoomify, pdf, sources
-18: freidok, zoomify, pdf, sources
-19: freidok, zoomify, pdf, sources
-20: freidok, zoomify, pdf, sources
-21: freidok, zoomify, pdf, sources
-22: freidok, zoomify, pdf, sources
-23: freidok, zoomify, pdf, sources
+18*: freidok, zoomify, pdf, sources (multiauthor)
+19*: freidok, zoomify, pdf, sources (multiauthor)
+20x: freidok, zoomify, pdf, sources (multiauthor)
+21x: freidok, zoomify, pdf, sources (multiauthor)
+22x: freidok, zoomify, pdf, sources (multiauthor)
+23x: freidok, zoomify, pdf, sources (multiauthor)
 24: freidok, zoomify, pdf, sources
 25: freidok, zoomify, pdf, sources, extras
 
