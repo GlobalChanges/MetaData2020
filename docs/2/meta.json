@@ -5,7 +5,10 @@
  "abstract": "Die Wasserkrise in der Metropolregion London nimmt stetig mehr Gestalt an. Das vorausliegende Problem kann nur mit einem gut funktionierenden Netzwerk bewältigt werden. Die unterschiedlichen Akteure der britischen Hauptstadt haben jedoch teils unverhältnismässige Beziehungen, was die Sicherung der Ressource Wasser gefährden könnte. Dieser Schauplatz verdeutlicht eine Problematik, wie sie in vielen Metropoloen des globalen Nordens und Südens aufzufinden sind - verworrene Netzwerke aus privatisierten Dienstleistern, einer nicht aufgeklärten Bevölkerung und einer gelähmten Administration.",
  "year": 2020,
  "orientation": "landscape",
- "freidok": "",
+ "freidok": "166022",
+ "doi": "10.6094/UNIFR/166022",
+ "pdf2": "https://freidok.uni-freiburg.de/fedora/objects/freidok:166022/datastreams/FILE1/content",
+ "image": "https://freidok.uni-freiburg.de/document/getLogoByPath?mode=freidok&filename=166022_1&mime=png",
  "pdf": "https://globalchanges.github.io/MetaData/2/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/MetaData/2/thumbnail.png",
  "authors": [
@@ -13,7 +16,7 @@
      "firstname": "Yannick",
      "name": "Layer",
      "email": "yannick.layer@web.de",
-     "freidok": "",
+     "freidok": "269146",
      "orcid": null
    }
  ],

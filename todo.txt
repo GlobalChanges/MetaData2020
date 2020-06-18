@@ -1,5 +1,5 @@
-01: freidok, zoomify, pdf, sources, extras
-02: freidok, zoomify, pdf, sources
+01: pdf, sources, extras(raw:info.pdf)
+02: pdf, sources, extras(xls)
 03: pdf, sources, extras
 04: freidok, zoomify, pdf, sources
 05: freidok, zoomify, pdf, sources
@@ -25,3 +25,4 @@
 25: freidok, zoomify, pdf, sources, extras
 
 look for extras in template.xls
+

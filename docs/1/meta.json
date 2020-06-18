@@ -7,7 +7,10 @@
  "abstract": "Currently, water scarcity is one of the major problems in Egypt. While its population is steadily growing, socio-political factors and climate change are increasingly influencing the country's water resources. This poster wants to highlight different facettes of Egypt's water scarcity using the Critical Zone research approach. Furthermore, possible future solutions at different spacial and temporal scales are presented: Virtual water trade, water use efficiency and desalination. Also, best practice examples from other regions of the world are presented.",
  "year": 2020,
  "orientation": "portrait",
- "freidok": "",
+ "freidok": "166017",
+ "doi": "10.6094/UNIFR/166017",
+ "pdf2": "https://freidok.uni-freiburg.de/fedora/objects/freidok:166017/datastreams/FILE1/content",
+ "image": "https://freidok.uni-freiburg.de/document/getLogoByPath?mode=freidok&filename=166017_1&mime=png",
  "pdf": "https://globalchanges.github.io/MetaData/1/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/MetaData/1/thumbnail.png",
  "authors": [
@@ -15,8 +18,8 @@
      "firstname": "Heindriken",
      "name": "Dahlmann",
      "email": "heindriken_dahlmann@hotmail.de",
-     "freidok": "",
-     "orcid": ""
+     "freidok": "269136",
+     "orcid": null
    }
  ],
  "location": {

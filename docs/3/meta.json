@@ -8,7 +8,10 @@
  "teaser": "Die abgelegenen Buchten, Fjorde und wilden Flussläufe in British Columbia dienen als Wanderrouten und Laichplätze der pazifischen Lachsarten und sind Heimat von First Nations. Gleichzeitig sind die Küstenstrukturen geeignet für die Fischzucht in Aquakulturen. Diese, zumeist von internationalen Unternehmen betriebenen, Fischfarmen sorgen für Arbeitsplätze in der Region, haben aber auch ökologische und sozio-kulturelle 'Nebenwirkungen'. Verschiedene First Nations sind mit dieser Form der Fischzucht konfrontiert und gezwungen Wege im Umgang damit zu finden und die eigenen Interessen gegenüber den internationalen Konzernen und der Politik zu vertreten. Das Beispiel Vancouver Island.",
  "year": 2020,
  "orientation": "portrait",
- "freidok": "",
+ "freidok": "165888",
+ "doi": "10.6094/UNIFR/165888",
+ "pdf2": "https://freidok.uni-freiburg.de/fedora/objects/freidok:165888/datastreams/FILE1/content",
+ "image": "https://freidok.uni-freiburg.de/document/getLogoByPath?mode=freidok&filename=165888_1&mime=png",
  "pdf": "https://globalchanges.github.io/MetaData/3/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/MetaData/3/thumbnail.png",  
  "authors": [
@@ -16,7 +19,7 @@
      "firstname": "Felix",
      "name": "Degner",
      "email": "felix.hans-dieter.degner@gmx.de",
-     "freidok": "",
+     "freidok": "268827",
      "orcid": "0000-0003-3043-0047"
    }
  ],
