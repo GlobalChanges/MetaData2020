@@ -4,7 +4,7 @@
 04: pdf, sources            
 05: pdf, sources
 06: pdf, sources
-07: freidok, zoomify, pdf, sources
+07: zoomify, pdf, sources
 08: sources, extras
 09: freidok, zoomify, pdf, sources
 10: freidok, zoomify, pdf, sources
@@ -15,12 +15,12 @@
 15: sources
 16: freidok, zoomify, pdf, sources
 17: freidok, zoomify, pdf, sources
-18*: freidok, zoomify, pdf, sources (multiauthor)
-19*: freidok, zoomify, pdf, sources (multiauthor)
-20x: freidok, zoomify, pdf, sources (multiauthor)
-21x: freidok, zoomify, pdf, sources (multiauthor)
-22x: freidok, zoomify, pdf, sources (multiauthor)
-23x: freidok, zoomify, pdf, sources (multiauthor)
+18: zoomify, pdf, sources 
+19: zoomify, pdf, sources 
+20*: freidok, zoomify, pdf, sources (multiauthor)
+21*: freidok, zoomify, pdf, sources (multiauthor)
+22*: freidok, zoomify, pdf, sources (multiauthor)
+23*: freidok, zoomify, pdf, sources (multiauthor)
 24: freidok, zoomify, pdf, sources
 25: freidok, zoomify, pdf, sources, extras
 

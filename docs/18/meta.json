@@ -6,8 +6,10 @@
  "title": "California - Land of Fire?",
  "abstract": "Welche Ursachen haben die Waldbrände in Kalifornien vor dem Hintergrund des Vulnerabilitätsansatzes?  Welche Schäden entstehen durch Waldbrände und Inwiefern können aktuelle Präventionsmanagement und –strategien diese Risiken eindämmen?  Gibt es andere Lösungsansätze?",
  "year": 2020,
- "freidok": "",
- "doi": "",
+ "freidok": "166085",
+ "doi": "10.6094/UNIFR/166085",
+ "pdf2": "https://freidok.uni-freiburg.de/fedora/objects/freidok:166085/datastreams/FILE1/content",
+ "image": "https://freidok.uni-freiburg.de/document/getLogoByPath?mode=freidok&filename=166085_1&mime=png",
  "orientation": "portrait",
  "pdf": "https://globalchanges.github.io/MetaData/18/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/MetaData/18/thumbnail.png",
@@ -16,14 +18,14 @@
      "firstname": "Sarah Delphine",
      "name": "Gruner",
      "email": "sarah_gruner@hotmail.de",
-     "freidok":"",
+     "freidok": "269303",
      "orcid": null
    },
    { 
      "firstname": "Sabine Luzia",
      "name": "Freitag",
      "email": "sabine.freitag@pluto.uni-freiburg.de",
-     "freidok":"",
+     "freidok": "269304",
      "orcid": null
    }
  ],
