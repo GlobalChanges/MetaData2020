@@ -17,10 +17,10 @@
 17: freidok, zoomify, pdf, sources
 18: pdf, sources 
 19: pdf, sources 
-20: zoomify, pdf, sources 
-21: zoomify, pdf, sources
-22: zoomify, pdf, sources
-23: zoomify, pdf, sources 
+20: pdf, sources 
+21: pdf, sources
+22: pdf, sources
+23: pdf, sources 
 24: freidok, zoomify, pdf, sources
 25: freidok, zoomify, pdf, sources, extras
 
