@@ -6,8 +6,10 @@
  "title": "'Killerseen' und das große Tauen",
  "abstract": "Wir haben uns auf unseren Plakaten mit der Gletscherschmelze des Himalayas und dessen Auswirkungen auf die Bevölkerung in der Region beschäftigt. Dabei haben wir das Konzept der Tipping Points genutzt, um aufzeigen zu können, wie relevant diese Thematik momentan ist. Außerdem zeigen wir anhand eines Wirkungsgefüges auf, wie die Ursachen und die Auswirkungen zusammenhängen. Abschließend zeigen wir andere Orte der Welt auf, die sich mit den gleichen Problemen befassen müssen und schauen uns deren Herangehensweisen an, um zu versuchen zu bewerten, inwiefern diese auch die die Himalaya-Karakourum-Hindukush Region infrage kommen.",
  "year": 2020,
- "freidok": "",
- "doi": "",
+ "freidok": "166118",
+ "doi": "10.6094/UNIFR/166118",
+ "pdf2": "https://freidok.uni-freiburg.de/fedora/objects/freidok:166118/datastreams/FILE1/content",
+ "image": "https://freidok.uni-freiburg.de/document/getLogoByPath?mode=freidok&filename=166118_1&mime=png",
  "orientation": "portrait",
  "pdf": "https://globalchanges.github.io/MetaData/21/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/MetaData/21/thumbnail.png",
@@ -16,28 +18,28 @@
      "firstname": "Carla",
      "name": "Van der Meyden",
      "email": "carla.jvdm@yahoo.de",
-     "freidok":"",
+     "freidok": "269385",
      "orcid": null
    },
    { 
      "firstname": "Franziska",
      "name": "Reitzenstein",
      "email": "franziska.reitzenstein@gmx.de",
-     "freidok":"",
+     "freidok": "269386",
      "orcid": null
    },
    { 
      "firstname": "Catarina",
      "name": "Clément",
      "email": "catarina.clement@gmx.net",
-     "freidok":"",
+     "freidok": "269383",
      "orcid": null
    },
    { 
      "firstname": "Denise",
      "name": "Andre",
      "email": "denise.andre@gmx.de",
-     "freidok":"",
+     "freidok": "269384",
      "orcid": null
    }
 

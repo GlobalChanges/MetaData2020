@@ -1,6 +1,12 @@
+Sprache DE or EN
+
 Vorbereiten:
-ORCID: <orcid-id>
-Quellen: Am Besten DOIs...
+ID: zugeteilt von Herausgebern
+Title: (< 70 Character)
+Abstract: (< 700 Character)
+Poster: pdf (< 25GB)
+ORCID: <orcid-id>, selber anlegen auf https://orcid.org, eventuell Mitautoren anfragen
+Quellen: Am Besten DOIs... (or ISBN, ISSN, URN)
 
 
 FREIDOK
@@ -14,20 +20,21 @@ DOI:leer, Titel, Sprache, Jahr
 
 Personen:
  Autor: self -> Anlegen mit <orcid-id>, Geburtsjahr
+ Autor: Mitautoren...
  Herausgeber: Ruediger Glaser
  Herausgeber: Michael Kahle
-Institution: Professur fuer Physische Geographie
+Institution: Professur fuer Physische Geographie  -> Auswaehlen in jeder Person
 
 Abstract: ...
 Beschreibung: "Poster"
 
 Schlagwort:
- kontrolliert: Geografie, Wandel, Globalisierung + "Globaler Wandel" + "Global Change"
- DDC:          900: Geschichte, Geografie und Hilfswissenschaften
+ kontrolliert: Geografie, Wandel, Globalisierung + "Globaler Wandel" + "Global Change" + <Topics>
+ DDC:          900: Geschichte, Geografie und Hilfswissenschaften + <Country/Continent-Geografie>
 
 Ist ein Teil von: "Geographie des Globalen Wandels"  Zaehlung: <ID>
 
-zitiert:   DOIs, xxxxxxxx
+zitiert:   DOIs, ISSN, ISBN
 
 upload
 
