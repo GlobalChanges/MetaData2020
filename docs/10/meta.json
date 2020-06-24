@@ -4,7 +4,10 @@
  "title": "'Blaue Revolution' - wer profitiert? Marine Lachs-Aquakultur in Chile",
  "abstract": "Das größte Zuchtlachsunternehmen der Welt (MOWI) betreibt vor den Küsten Chiles in hohem Maße marine Aquakultur. Im Jahr 2018 wurden weltweit 2 176 000 Tonnen Lachs produziert - davon 609 700 Tonnen in Chile. Mit über 1000 ansässigen Unternehmen existiert dort ein Lachscluster. Der Atlantische Lachs (Salmo salar) wird von MOWI größtenteils exportiert. Wer gewinnt in dem System, wer verliert? Welche Unterschiede bestehen zwischen globalem Süden und globalem Norden? Wie wird die Situation aussehen, wenn in einigen Jahren mehr Fisch aus Aquakultur stammt als aus Wildfang?",
  "year": 2020,
- "freidok": "",
+ "freidok": "166128",
+ "doi": "10.6094/UNIFR/166128",
+ "pdf2": "https://freidok.uni-freiburg.de/fedora/objects/freidok:166128/datastreams/FILE1/content",
+ "image": "https://freidok.uni-freiburg.de/document/getLogoByPath?mode=freidok&filename=166128_1&mime=png",
  "orientation": "landscape",
  "pdf": "https://globalchanges.github.io/MetaData/10/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/MetaData/10/thumbnail.png",
@@ -13,7 +16,7 @@
      "firstname": "Corinna",
      "name": "Jürgens",
      "email": "c.juergens@posteo.de",
-     "freidok":"",
+     "freidok": "269446",
      "orcid": null
    }
  ],
