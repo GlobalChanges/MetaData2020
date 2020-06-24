@@ -6,9 +6,9 @@
 06: pdf, sources
 07: pdf, sources
 08: sources, extras
-09: zoomify, pdf, sources
-10: zoomify, pdf, sources
-11: zoomify, pdf, sources
+09: pdf, sources
+10: pdf, sources
+11: pdf, sources
 12: pdf, sources
 13: pdf, sources
 14: pdf, sources
