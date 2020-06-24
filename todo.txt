@@ -23,6 +23,11 @@
 23: pdf, sources 
 24: freidok, zoomify, pdf, sources
 25: freidok, zoomify, pdf, sources, extras
+26: json, freidok, zoomify, pdf, sources, extras
 
 look for extras in template.xls
+
+Rename to MetaData2020
+
+
 
