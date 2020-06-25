@@ -13,16 +13,16 @@
 13: pdf, sources
 14: pdf, sources
 15: sources
-16: zoomify, pdf, sources, extras(xls)
-17: zoomify, pdf, sources
+16: pdf, sources, extras(xls)
+17: pdf, sources
 18: pdf, sources 
 19: pdf, sources 
 20: pdf, sources 
 21: pdf, sources
 22: pdf, sources
 23: pdf, sources 
-24: zoomify, pdf, sources
-25: zoomify, pdf, sources, extras(xls)
+24: pdf, sources
+25: pdf, sources, extras(xls)
 --
 26: json, freidok, zoomify, pdf, sources, extras
 
