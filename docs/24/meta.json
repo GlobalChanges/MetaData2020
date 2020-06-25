@@ -4,8 +4,10 @@
  "title": "Hurrikans in Florida - Ist die Angst berechtigt?",
  "abstract": "Florida ist bekannt für eine häufige Betroffenheit von Hurrikans. Doch wie hoch ist das Risiko wirklich und was sind die entscheidenden Faktoren? Und wie wird sich dies mit steigenden Temperaturen im Kontext des globalen Klimawandels verändern? Diese Fragen werden geklärt sowie einige Lösungsansätze zur Anpassung an diese Naturgewalt aufgezeigt.",
  "year": 2020,
- "freidok": "",
- "doi": "",
+ "freidok": "166148",
+ "doi": "10.6094/UNIFR/166148",
+ "pdf2": "https://freidok.uni-freiburg.de/fedora/objects/freidok:166148/datastreams/FILE1/content",
+ "image": "https://freidok.uni-freiburg.de/document/getLogoByPath?mode=freidok&filename=166148_1&mime=png",
  "orientation": "landscape",
  "pdf": "https://globalchanges.github.io/MetaData/24/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/MetaData/24/thumbnail.png",
@@ -14,7 +16,7 @@
      "firstname": "Nina",
      "name": "Effelsberg",
      "email": "nina.effelsberg@yahoo.de",
-     "freidok":"",
+     "freidok": "269476",
      "orcid": null
    }
  ],

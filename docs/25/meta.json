@@ -4,8 +4,10 @@
  "title": "Wasserkrise in Spanien",
  "abstract": "Die Wasserkrise in Spanien verschärft sich. Der Wasserbedarf kann auf lange Sicht nicht mehr gedeckt werden. Besonders die Landwirtschaft verbraucht sehr viel Wasser. In den letzten Jahrzehnten konnten Dürren immer wieder als Katalysator für Reformen genutzt werden. Die Region Almería ist Vorreiter in effizienter und wassersparender Landwirtschaft. Doch reichen diese Innovationen für eine nachhaltigere Wasserversorgung aus?",
  "year": 2020,
- "freidok": "",
- "doi": "",
+ "freidok": "166149",
+ "doi": "10.6094/UNIFR/166149",
+ "pdf2": "https://freidok.uni-freiburg.de/fedora/objects/freidok:166149/datastreams/FILE1/content",
+ "image": "https://freidok.uni-freiburg.de/document/getLogoByPath?mode=freidok&filename=166149_1&mime=png",
  "orientation": "landscape",
  "pdf": "https://globalchanges.github.io/MetaData/25/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/MetaData/25/thumbnail.png",
@@ -14,7 +16,7 @@
      "firstname": "Johannes",
      "name": "Baumann",
      "email": "johannes.baumann@students.uni-freiburg.de",
-     "freidok":"",
+     "freidok": "269477",
      "orcid": null
    }
  ],

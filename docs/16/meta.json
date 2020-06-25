@@ -4,8 +4,10 @@
  "title": "Plastikverschmutzung im Europäischen Mittelmeer",
  "abstract": "Seit den 1950er Jahren hat die weltweite Produktion von Plastik stetig zugenommen. In den Weltmeeren haben sich mittlerweile mehr als 300 Mio. t Plastik angesammelt und jedes Jahr kommen bis zu 30 Mio. t dazu. Durch den Tourismus, Flüsse (u.a. Nil), fehlende Strukturen sowie durch das Konsumverhalten im mediterranen Raum haben sich auch im Europäischen Mittelmeer Millionen t Plastik angesammelt (1,25 Mio. Plastikfragmente pro km²). Durch die lange Zersetzungsdauer von Plastik (bis zu 600 Jahre) vermüllt das Mittelmeer mehr und mehr und zahlreiche Meerestierarten sind durch die Folgen (Verzehr, Verstrickung etc.) von dieser Umweltverschmutzung betroffen. Auch der Mensch nimmt u.a. durch die Nahrungskette Mikroplastik auf, wodurch dessen Gesundheit gefährdet werden kann. Neben Fettleibigkeit, Diabetes und Brustkrebs können hormonell wirksame Substanzen in Kunststoffen zahlreiche weitere gesundheitliche Risiken auslösen. Geht die Verschmutzung in diesem Ausmaß weiter, könnte es schon in 30 Jahren in den Weltmeeren mehr Plastik als Fische geben. Eine internationale Zusammenarbeit (akteursübergreifend) ist daher notwendig, um die Folgen sowohl für den Menschen als auch für die marine Flora und Fauna abzumildern.",
  "year": 2020,
- "freidok": "",
- "doi": "",
+ "freidok": "166135",
+ "doi": "10.6094/UNIFR/166135",
+ "pdf2": "https://freidok.uni-freiburg.de/fedora/objects/freidok:166135/datastreams/FILE1/content",
+ "image": "https://freidok.uni-freiburg.de/document/getLogoByPath?mode=freidok&filename=166135_1&mime=png",
  "orientation": "portrait",
  "pdf": "https://globalchanges.github.io/MetaData/16/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/MetaData/16/thumbnail.png",
@@ -14,7 +16,7 @@
      "firstname": "Nico",
      "name": "Worzek",
      "email": "nico.worzek@aol.de",
-     "freidok":"",
+     "freidok": "269450",
      "orcid": null
    }
  ],
