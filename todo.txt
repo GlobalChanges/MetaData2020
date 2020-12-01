@@ -28,7 +28,6 @@
 
 look for extras in template.xls
 
-Rename to MetaData2020
 
 
 

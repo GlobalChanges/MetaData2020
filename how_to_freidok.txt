@@ -39,10 +39,11 @@ zitiert:   DOIs, ISSN, ISBN
 upload
 
 license cc-by,cc-sa,...
+(Kombination/Quellen; Copyright,Urheberrecht beachten...)
 
 Vertrag fuer Autoren
 
-Kontakt: zusaetzlich: michael.kahle@geographiee.uni-freiburg.de
+Kontakt: zusaetzlich: michael.kahle@geographie.uni-freiburg.de
 
 
 
@@ -56,7 +57,8 @@ Github: max 25GB
 
 
 ---
-https://freidok.uni-freiburg.de/landingpage/getFreidokData?id=11550&lang=en   -> json
+https://freidok.uni-freiburg.de/landingpage/getFreidokData?id=165768&lang=en   -> json serie
+https://freidok.uni-freiburg.de/landingpage/getFreidokData?id=166017&lang=en   -> json
 https://freidok.uni-freiburg.de/fedora/objects/freidok:11545/datastreams/FILE1/content -> pdf
 https://freidok.uni-freiburg.de/document/getLogoByPath?mode=freidok&filename=165764_1&mime=png  -> img
 
