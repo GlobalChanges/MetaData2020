@@ -39,7 +39,7 @@
  "location": {
    "continent": "Welt",
    "country": null,
-   "countries": ["Argentinien", "Bolivien", "Chile", "Deutschland", "USA", "China", "Japan", "Suedkorea"],
+   "countries": ["Argentinien", "Bolivien", "Chile", "Deutschland", "USA", "China", "Japan", "Südkorea"],
    "region": null,
    "city": null,
    "latitude": 90.0,

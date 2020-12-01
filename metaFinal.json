@@ -9,8 +9,8 @@
  "orientation": "portrait|landscape",
  "pdf": "https://freidok.uni-freiburg.de/fedora/objects/freidok:{{freidok}}/datastreams/FILE1/content",
  "image": "https://freidok.uni-freiburg.de/document/getLogoByPath?mode=freidok&filename={{freidok}}_1&mime=png",
- "thumbnail": "https://globalchanges.github.io/MetaData/{{id}}/thumbnail.png",
- "zoomify": ["https://globalchanges.github.io/MetaData/{{id}}/zoomify"],
+ "thumbnail": "https://globalchanges.github.io/MetaData{{year}}/{{id}}/thumbnail.png",
+ "zoomify": ["https://globalchanges.github.io/MetaData{{year}}/{{id}}/zoomify"],
  "authors": [
    { 
      "firstname": "",

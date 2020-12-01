@@ -6,8 +6,8 @@
  "year": 2020,
  "freidok": "",
  "orientation": "portrait|landscape",
- "pdf": "https://globalchanges.github.io/MetaData/{{id}}/poster.pdf",
- "thumbnail": "https://globalchanges.github.io/MetaData/{{id}}/thumbnail.png",
+ "pdf": "https://globalchanges.github.io/MetaData{{year}}/{{id}}/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData{{year}}/{{id}}/thumbnail.png",
  "authors": [
    { 
      "firstname": "",
