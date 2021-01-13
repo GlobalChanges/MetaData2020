@@ -42,8 +42,8 @@
    "countries": ["Argentinien", "Bolivien", "Chile"],
    "region": "Anden",
    "city": null,
-   "latitude": 90.0,
-   "longitude": 180.0
+   "latitude": -22.923035,
+   "longitude": -67.177421
  },
  "period": {
     "begin": 1800,

@@ -42,8 +42,8 @@
    "countries": null,
    "region": "Anden",
    "city": null,
-   "latitude": 90.0,
-   "longitude": 180.0
+   "latitude": 51.0,
+   "longitude": 10.0
  },
  "period": {
     "begin": 1800,

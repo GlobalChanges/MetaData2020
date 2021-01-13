@@ -28,8 +28,8 @@
    "city": null,
    "cities": ["Ouagadougou","Tamale"],
    "landscape": "Tiefland",
-   "latitude": 90.0,
-   "longitude": 180.0
+   "latitude": 10.981195,
+   "longitude": -1.330231
  },
  "period": {
     "begin": 2020,

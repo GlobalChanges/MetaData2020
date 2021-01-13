@@ -42,8 +42,8 @@
    "countries": ["Argentinien", "Bolivien", "Chile", "Deutschland", "USA", "China", "Japan", "Südkorea"],
    "region": null,
    "city": null,
-   "latitude": 90.0,
-   "longitude": 180.0
+   "latitude": 25.0,
+   "longitude": -40.0
  },
  "period": {
     "begin": 1800,
