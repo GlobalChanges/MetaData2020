@@ -11,6 +11,7 @@
  "pdf": "https://freidok.uni-freiburg.de/fedora/objects/freidok:165764/datastreams/FILE1/content",
  "image": "https://freidok.uni-freiburg.de/document/getLogoByPath?mode=freidok&filename=165764_1&mime=png",
  "thumbnail": "https://globalchanges.github.io/MetaData2020/8/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2020/8/icon.png",
  "authors": [
    { 
      "firstname": "Matthias",
