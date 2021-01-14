@@ -13,6 +13,7 @@
  "image": "https://freidok.uni-freiburg.de/document/getLogoByPath?mode=freidok&filename=166030_1&mime=png",
  "pdf": "https://globalchanges.github.io/MetaData2020/4/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/MetaData2020/4/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2020/4/icon.png",
  "authors": [
    { 
      "firstname": "Janne",
