@@ -11,6 +11,7 @@
  "orientation": "landscape",
  "pdf": "https://globalchanges.github.io/MetaData2020/7/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/MetaData2020/7/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2020/7/icon.png",
  "authors": [
    { 
      "firstname": "Alena",

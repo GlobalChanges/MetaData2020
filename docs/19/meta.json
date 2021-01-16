@@ -13,6 +13,7 @@
  "orientation": "portrait",
  "pdf": "https://globalchanges.github.io/MetaData2020/19/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/MetaData2020/19/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2020/19/icon.png",
  "authors": [
    { 
      "firstname": "Sabine Luzia",
