@@ -13,6 +13,7 @@
  "orientation": "portrait",
  "pdf": "https://globalchanges.github.io/MetaData2020/21/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/MetaData2020/21/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2020/21/icon.png",
  "authors": [
    { 
      "firstname": "Carla",

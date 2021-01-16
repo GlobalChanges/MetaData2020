@@ -13,6 +13,7 @@
  "orientation": "portrait",
  "pdf": "https://globalchanges.github.io/MetaData2020/23/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/MetaData2020/23/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2020/23/icon.png",
  "authors": [
    { 
      "firstname": "Denise",
