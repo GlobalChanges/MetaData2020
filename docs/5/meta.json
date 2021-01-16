@@ -13,6 +13,7 @@
  "image": "https://freidok.uni-freiburg.de/document/getLogoByPath?mode=freidok&filename=166032_1&mime=png",
  "pdf": "https://globalchanges.github.io/MetaData2020/5/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/MetaData2020/5/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2020/5/icon.png",
  "authors": [
    { 
      "firstname": "Theresa",
