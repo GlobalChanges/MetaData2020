@@ -12,6 +12,7 @@
  "thumbnail": "https://globalchanges.github.io/MetaData2020/9012/thumbnail.png",
  "icon": "https://globalchanges.github.io/MetaData2020/9012/icon.png",
  "image": "https://freidok.uni-freiburg.de/document/getLogoByPath?mode=freidok&filename=165890_1&mime=png",
+ "tiles": "https://globalchanges.github.io/MetaData2020/9012/tiles.dzi",
  "authors": [
    { 
      "firstname": "Franziska",
