@@ -11,6 +11,7 @@
  "thumbnail": "https://globalchanges.github.io/MetaData2020/14/thumbnail.png",
  "image": "https://freidok.uni-freiburg.de/document/getLogoByPath?mode=freidok&filename=165892_1&mime=png",
  "icon": "https://globalchanges.github.io/MetaData2020/14/icon.png",
+ "tiles": "https://globalchanges.github.io/MetaData2020/14/tiles.dzi",
  "authors": [
    { 
      "firstname": "Lucas",
