@@ -12,6 +12,7 @@
  "image": "https://freidok.uni-freiburg.de/document/getLogoByPath?mode=freidok&filename=165764_1&mime=png",
  "thumbnail": "https://globalchanges.github.io/MetaData2020/8/thumbnail.png",
  "icon": "https://globalchanges.github.io/MetaData2020/8/icon.png",
+ "tiles": "https://globalchanges.github.io/MetaData2020/8/tiles.dzi",
  "authors": [
    { 
      "firstname": "Matthias",
